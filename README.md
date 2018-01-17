@@ -44,5 +44,5 @@ As you get an handle of trigger whenever given element reaches top of the page,
 
 
 ## LICENCE
-MIT © [Lalit]((mailto:lalit.umbarkar9@gmail.com))
+MIT © [Lalit](mailto:lalit.umbarkar9@gmail.com)
 

@@ -1,8 +1,8 @@
 {
   "name": "ngx-scroll-to-top",
-  "version": "0.0.3",
+  "version": "0.1.2",
   "description": "An Angular Library used to make an element stick to the top of the page.",
-  "main": "./dist/main.js",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
@@ -10,13 +10,17 @@
     "tsc": "tsc"
   },
   "devDependencies": {
-    "@angular/core": "~5.2.0",
-    "@angular/common": "~5.2.0",
-    "@angular/compiler": "~5.2.0",
-    "@types/node": "~9.3.0",
-    "@types/angular": "~1.6.40",
-    "typescript": "~2.6.2",
-    "rxjs": "~5.5.6"
+    "@angular/core": "^2.0.0",
+    "@angular/common": "^2.0.0",
+    "@angular/compiler": "^2.4.5",
+    "rxjs": "^5.0.1",
+    "typescript": "2.0.2",
+    "zone.js": "0.7.2",
+    "@types/node": "^8.0.26",
+    "@types/angular": "^1.6.18"
+  },
+  "engines": {
+    "node": ">=0.8.0"
   },
   "repository": {
     "type": "git",
